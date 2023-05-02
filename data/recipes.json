@@ -1,0 +1,68 @@
+[
+   
+    {
+        "id": 1,
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": [
+            "ground beef",
+            "cheddar cheese",
+            "lettuce",
+            "tomato",
+            "onion"
+        ],
+        "cooking_method": "grill",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "recipe_name": "Mac and Cheese",
+        "ingredients": [
+            "macaroni",
+            "butter",
+            "flour",
+            "milk",
+            "cheddar cheese"
+        ],
+        "cooking_method": "bake",
+        "rating": 4.0
+    },
+    {
+        "id": 3,
+        "recipe_name": "Fried Chicken",
+        "ingredients": [
+            "chicken",
+            "buttermilk",
+            "flour",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "fry",
+        "rating": 2.3
+    },
+    {
+        "id": 4,
+        "recipe_name": "BBQ Ribs",
+        "ingredients": [
+            "pork ribs",
+            "BBQ sauce",
+            "brown sugar",
+            "paprika",
+            "garlic powder"
+        ],
+        "cooking_method": "grill",
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "recipe_name": "Cornbread",
+        "ingredients": [
+            "cornmeal",
+            "flour",
+            "baking powder",
+            "salt",
+            "milk"
+        ],
+        "cooking_method": "bake",
+        "rating": 4.2
+    }
+]

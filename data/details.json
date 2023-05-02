@@ -1,47 +1,54 @@
 [
     {
         "id": "1",
-        "chefName": "John Smith",
-        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+        "name": "Julia Child",
+        "bio": "Julia Child was an American chef, author, and television personality. She is best known for bringing French cuisine to the American public with her book 'Mastering the Art of French Cooking' and her television show 'The French Chef'. Child was a pioneer of modern American cooking and continued to inspire home cooks until her passing in 2004.",
+        "chefPicture": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=400",
         "yearsOfExperience": 10,
         "numRecipes": 50,
         "numLikes": 1000
     },
     {
         "id": "2",
-        "chefName": "Jane Doe",
-        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+        "name": "Emeril Lagasse",
+        "bio": "Emeril Lagasse is an American chef, restaurateur, and television personality. He is best known for his cooking shows on the Food Network, including 'Emeril Live' and 'Essence of Emeril'. Lagasse is known for his signature catchphrase 'Bam!' and for his emphasis on using fresh ingredients and bold flavors in his cooking.",
+        "chefPicture": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=400",
         "yearsOfExperience": 7,
         "numRecipes": 30,
         "numLikes": 750
     },
     {
         "id": "3",
-        "chefName": "Samuel Lee",
-        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+        "name": "Ina Garten",
+        "bio": 
+        "Ina Garten is an American chef, author, and television personality. She is best known for her cooking show 'Barefoot Contessa' and her line of cookbooks. Garten emphasizes using fresh, seasonal ingredients in her recipes and is known for her simple, elegant cooking style.",
+        "chefPicture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=400",
         "yearsOfExperience": 5,
         "numRecipes": 20,
         "numLikes": 500
     },
     {
         "id": "4",
-        "chefName": "Sara Johnson",
-        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+        "name": "Gordon Ramsay",
+        "bio": "Gordon Ramsay is a British-American chef, restaurateur, and television personality. He is best known for his reality cooking shows, including 'Hell's Kitchen' and 'MasterChef', and for his fiery personality in the kitchen. Ramsay has received numerous accolades for his cooking and his restaurants, including multiple Michelin stars.",
+        "chefPicture": "https://images.pexels.com/photos/3338675/pexels-photo-3338675.jpeg?auto=compress&cs=tinysrgb&w=400",
         "yearsOfExperience": 8,
         "numRecipes": 40,
         "numLikes": 900
     },
     {
         "id": "5",
-        "chefName": "Michael Brown",
-        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+        "name": "Alice Waters",
+        "bio": "Alice Waters is an American chef, author, and food activist. She is best known for her restaurant Chez Panisse in Berkeley, California, which she founded in 1971. Waters is a pioneer of the farm-to-table movement and is known for her emphasis on using locally-sourced, organic ingredients in her cooking.",
+        "chefPicture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=400",
         "yearsOfExperience": 12,
         "numRecipes": 75,
         "numLikes": 1200
     },
     {
         "id": "6",
-        "chefName": "Emily Garcia",
+        "name": "Thomas Keller",
+        "bio": "Thomas Keller is an American chef, restaurateur, and cookbook author. He is the chef and proprietor of The French Laundry in Napa Valley, California, which has been awarded three Michelin stars. Keller is known for his meticulous attention to detail in his cooking and for his innovative approach to classic French cuisine.",
         "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
         "yearsOfExperience": 3,
         "numRecipes": 15,
