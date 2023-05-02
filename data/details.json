@@ -2,7 +2,7 @@
     {
         "id": "1",
         "chefName": "John Smith",
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
         "yearsOfExperience": 10,
         "numRecipes": 50,
         "numLikes": 1000
@@ -10,7 +10,7 @@
     {
         "id": "2",
         "chefName": "Jane Doe",
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
         "yearsOfExperience": 7,
         "numRecipes": 30,
         "numLikes": 750
@@ -18,7 +18,7 @@
     {
         "id": "3",
         "chefName": "Samuel Lee",
-        "chefPicture": "https://example.com/chef3.jpg",
+        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
         "yearsOfExperience": 5,
         "numRecipes": 20,
         "numLikes": 500
@@ -26,7 +26,7 @@
     {
         "id": "4",
         "chefName": "Sara Johnson",
-        "chefPicture": "https://example.com/chef4.jpg",
+        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
         "yearsOfExperience": 8,
         "numRecipes": 40,
         "numLikes": 900
@@ -34,7 +34,7 @@
     {
         "id": "5",
         "chefName": "Michael Brown",
-        "chefPicture": "https://example.com/chef5.jpg",
+        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
         "yearsOfExperience": 12,
         "numRecipes": 75,
         "numLikes": 1200
@@ -42,7 +42,7 @@
     {
         "id": "6",
         "chefName": "Emily Garcia",
-        "chefPicture": "https://example.com/chef6.jpg",
+        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
         "yearsOfExperience": 3,
         "numRecipes": 15,
         "numLikes": 300
