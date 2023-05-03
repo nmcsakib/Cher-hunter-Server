@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 app.get('/chef-details', (req, res) => {
     res.send(chefDetails)
 })
-app.get('/recipes', (req, res) => {
+app.get('/recipes/:id', (req, res) => {
     res.send(recipes)
 })
 app.listen(port)
